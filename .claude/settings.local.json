@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(mkdir:*)",
+      "Bash(copy:*)",
+      "Bash(build.bat)",
+      "Bash(pyinstaller:*)",
+      "Bash(dir:*)",
+      "Bash(powershell:*)",
+      "Bash(timeout:*)"
+    ],
+    "deny": []
+  }
+}

@@ -1,0 +1,9 @@
+kivy==2.3.1
+kivy_deps.angle==0.4.0
+kivy_deps.glew==0.3.1
+kivy_deps.sdl2==0.8.0
+kivy_deps.sdl2_dev==0.8.0
+openpyxl>=3.0.0
+python-dotenv>=0.19.0
+pydantic>=1.8.0
+pydantic-settings>=2.0.0
